@@ -8,8 +8,17 @@ This kit includes:
 For a walkthrough, see the [Relay tutorial](https://facebook.github.io/relay/docs/tutorial.html).
 
 ### Notes:
-This is based on alpha version of `graphql-go` and `graphql-relay-go`. 
+This is based on alpha version of `graphql-go` and `graphql-relay-go`.
 Be sure to watch both repositories for latest changes.
+
+This is a fork of [sogko's golang-react-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit)
+
+Some differences include:
+
+1. Upgrade to Babel 6
+2. Does not use `class` keyword unless needed
+3. Even more bare bones then the orginal
+
 
 ## Installation
 
@@ -81,3 +90,4 @@ Feel free to submit a PR to add to this list.
 
 ## Credits
 This kit is build on top of https://github.com/relayjs/relay-starter-kit
+This is a fork of [sogko's golang-react-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit)

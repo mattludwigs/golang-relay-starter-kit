@@ -1,0 +1,7 @@
+package: github.com/mattludwigs/golang-relay-starter-kit
+import:
+- package: github.com/graphql-go/graphql
+  subpackages:
+  - testutil
+- package: github.com/graphql-go/handler
+- package: github.com/graphql-go/relay

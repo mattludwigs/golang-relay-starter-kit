@@ -1,0 +1,37 @@
+hash: 49dec850db7a42927d74f7c937fc526c87dd087d582bd6852d0bef9862a2c216
+updated: 2016-02-24T21:30:09.123102452-07:00
+imports:
+- name: github.com/gorilla/schema
+  version: 14c555599c2a4f493c1e13fd1ea6fdf721739028
+- name: github.com/graphql-go/graphql
+  version: 26c58bd73a3cf9177fb534f57c9698a7bc6277a2
+  subpackages:
+  - testutil
+  - gqlerrors
+  - language/ast
+  - language/kinds
+  - language/parser
+  - language/printer
+  - language/source
+  - language/visitor
+  - language/location
+  - language/lexer
+- name: github.com/graphql-go/handler
+  version: f2b24d1fc961ef6fcc17c0ae323d022fe0dd03b6
+- name: github.com/graphql-go/relay
+  version: 6ef18785c2e8608a696aa44233e27fd5b2cf2b23
+- name: github.com/kr/pretty
+  version: e6ac2fc51e89a3249e82157fa0bb7a18ef9dd5bb
+- name: github.com/kr/text
+  version: bb797dc4fb8320488f47bf11de07a733d7233e1f
+- name: github.com/sogko/golang-relay-starter-kit
+  version: a7eb1da064fd55a667f97b5157289e55683d77d8
+  subpackages:
+  - data
+- name: github.com/unrolled/render
+  version: 198ad4d8b8a4612176b804ca10555b222a086b40
+- name: golang.org/x/net
+  version: 4599ae7937fce9b670ce32b8ad32bbb7ae726b3e
+  subpackages:
+  - context
+devImports: []
